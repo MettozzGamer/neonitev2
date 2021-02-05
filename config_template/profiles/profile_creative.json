@@ -14,10 +14,10 @@
         "publish_allowed": true,
         "support_code": "",
         "last_used_plot": "",
-        "permissions": [],
-        "creator_name": "",
+        "permissions": [true],
+        "creator_name": "MettozzGamerYT",
         "publish_banned": false,
-        "inventory_limit_bonus": 0
+        "inventory_limit_bonus": 5
       }
     }
   }
